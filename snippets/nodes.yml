@@ -1,29 +1,25 @@
 proxies:
 - alterId: 0
   cipher: auto
-  name: '1,6|🇺🇸_US_美国 #4'
+  name: 1|_US__1
   network: ws
   port: 2086
   server: 104.19.38.62
   sni: ip004.dtku47.xyz
-  tls: false
   type: vmess
   uuid: 29eebb60-b27b-4a9d-bba5-947763d9205e
-  ws-opts: {}
 - alterId: 0
   cipher: auto
-  name: '1,6|🇺🇸_US_美国 #5'
+  name: 1|_US__2
   network: ws
   port: 2086
   server: 104.19.47.122
   sni: ip14.freegradely.xyz
-  tls: false
   type: vmess
   uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
-  ws-opts: {}
 - alterId: 0
   cipher: auto
-  name: '1,6,17|🇺🇸_US_美国->🇨🇦_CA_加拿大 #6'
+  name: '1,3,17|🇺🇸_US_美国->🇨🇦_CA_加拿大 #6'
   network: ws
   port: 2086
   server: 104.19.57.4
@@ -34,15 +30,13 @@ proxies:
   ws-opts: {}
 - alterId: 0
   cipher: auto
-  name: 1,6|🇺🇸_US_美国->🇨🇦_CA_加拿大
+  name: 1|_US_->_CA__1
   network: ws
   port: 2086
   server: 104.19.47.79
   sni: ip14.freegradely.xyz
-  tls: false
   type: vmess
   uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
-  ws-opts: {}
 - cipher: aes-256-cfb
   name: 1|_FR_->_RU_
   password: f8f7aCzcPKbsF8p3
@@ -51,48 +45,40 @@ proxies:
   type: ss
 - alterId: 0
   cipher: auto
-  name: '1,6|🇺🇸_US_美国 #7'
+  name: 1|_US__4
   network: ws
   port: 2086
   server: 104.19.46.36
   sni: ip14.freegradely.xyz
-  tls: false
   type: vmess
   uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
-  ws-opts: {}
 - alterId: 0
   cipher: auto
-  name: '1,6|🇺🇸_US_美国->🇨🇦_CA_加拿大 #1'
+  name: 1|_US_->_CA__2
   network: ws
   port: 2086
   server: 104.19.46.39
   sni: ''
-  tls: false
   type: vmess
   uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
-  ws-opts: {}
 - alterId: 0
   cipher: auto
-  name: 1,6|🇺🇸_US_美国->🇨🇳_CN_中国
+  name: 1|_US_->_CN__1
   network: ws
   port: 2052
   server: 104.19.21.240
   sni: cdn2.freegradely.xyz
-  tls: false
   type: vmess
   uuid: d6b6d982-d52f-465a-b988-85670b23f64a
-  ws-opts: {}
 - alterId: 0
   cipher: auto
-  name: '1,6|🇺🇸_US_美国->🇨🇦_CA_加拿大 #2'
+  name: 1|_US_->_CA__3
   network: ws
   port: 2086
   server: 104.19.47.32
   sni: ip14.freegradely.xyz
-  tls: false
   type: vmess
   uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
-  ws-opts: {}
 - cipher: aes-256-cfb
   name: 1|_US__5
   password: amazonskr05
@@ -101,26 +87,22 @@ proxies:
   type: ss
 - alterId: 0
   cipher: auto
-  name: '1,6|🇺🇸_US_美国->🇸🇬_SG_新加坡 #1'
+  name: 1|_US_->_SG_
   network: ws
   port: 2052
   server: cfcdn2.sanfencdn9.com
   sni: ''
-  tls: false
   type: vmess
   uuid: ab1ee1ac-884c-44dc-ab65-d533d32e2b1a
-  ws-opts: {}
 - alterId: 0
   cipher: auto
-  name: '1,6|🇺🇸_US_美国 #8'
+  name: 1|_US__6
   network: ws
   port: 2086
   server: 104.20.25.146
   sni: ip14.freegradely.xyz
-  tls: false
   type: vmess
   uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
-  ws-opts: {}
 - cipher: aes-256-gcm
   name: 1|_US__7
   password: RexnBgU7EV5ADxG
@@ -129,14 +111,12 @@ proxies:
   type: ss
 - alterId: 0
   cipher: auto
-  name: 1,6|🇺🇸_US_美国->🇳🇱_NL_荷兰
+  name: 1|_US_->_NL_
   network: ws
   port: 2086
   server: 172.64.198.249
-  tls: false
   type: vmess
   uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
-  ws-opts: {}
 - cipher: chacha20-ietf-poly1305
   name: 1|_US_->_ES_
   password: 2062a5ca-a34e-47bf-9810-db91185f07fc
@@ -145,29 +125,25 @@ proxies:
   type: ss
 - alterId: 0
   cipher: auto
-  name: '1,6|🇺🇸_US_美国 #9'
+  name: 1|_US__8
   network: ws
   port: 2086
   server: 104.19.21.230
   sni: ip14.freegradely.xyz
-  tls: false
   type: vmess
   uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
-  ws-opts: {}
 - alterId: 0
   cipher: auto
-  name: '1,6|🇺🇸_US_美国->🇨🇦_CA_加拿大 #3'
+  name: 1|_US_->_CA__4
   network: ws
   port: 2086
   server: 104.19.45.47
   sni: ip14.freegradely.xyz
-  tls: false
   type: vmess
   uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
-  ws-opts: {}
 - alterId: 0
   cipher: auto
-  name: '1,6,17|🇺🇸_US_美国->🇨🇦_CA_加拿大 #5'
+  name: '1,3,17|🇺🇸_US_美国->🇨🇦_CA_加拿大 #5'
   network: ws
   port: 2086
   server: 104.18.57.111
@@ -178,26 +154,22 @@ proxies:
   ws-opts: {}
 - alterId: 0
   cipher: auto
-  name: '1,6|🇺🇸_US_美国->🇨🇳_CN_中国 #1'
+  name: 1|_US_->_CN__2
   network: ws
   port: 8080
   server: 104.19.47.126
   sni: ''
-  tls: false
   type: vmess
   uuid: b551aa22-22af-11ee-b8d8-f23c932eb68d
-  ws-opts: {}
 - alterId: 0
   cipher: auto
-  name: '1,6|🇺🇸_US_美国 #11'
+  name: 1|_US__10
   network: ws
   port: 2052
   server: 104.19.46.123
   sni: cdn2.freegradely.xyz
-  tls: false
   type: vmess
   uuid: d6b6d982-d52f-465a-b988-85670b23f64a
-  ws-opts: {}
 - cipher: aes-256-cfb
   name: 1|_SG_
   password: amazonskr05
@@ -212,15 +184,13 @@ proxies:
   type: ss
 - alterId: 0
   cipher: auto
-  name: '1,6|🇺🇸_US_美国 #12'
+  name: 1|_US__12
   network: ws
   port: 2086
   server: 104.19.51.232
   sni: ''
-  tls: false
   type: vmess
   uuid: 29eebb60-b27b-4a9d-bba5-947763d9205e
-  ws-opts: {}
 - cipher: aes-256-cfb
   name: 1|_CN_
   password: hGkQ6915tD
@@ -229,47 +199,39 @@ proxies:
   type: ss
 - alterId: 0
   cipher: auto
-  name: '1,6|🇺🇸_US_美国 #13'
+  name: 1|_US__13
   network: ws
   port: 2086
   server: 104.19.46.233
   sni: ''
-  tls: false
   type: vmess
   uuid: 29eebb60-b27b-4a9d-bba5-947763d9205e
-  ws-opts: {}
 - alterId: 0
   cipher: auto
-  name: '1,6|🇺🇸_US_美国 #14'
+  name: 1|_US__14
   network: ws
   port: 2086
   server: 104.19.46.59
-  tls: false
   type: vmess
   uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
-  ws-opts: {}
 - alterId: 0
   cipher: auto
-  name: '1,6|🇺🇸_US_美国 #15'
+  name: 1|_US__15
   network: ws
   port: 2086
   server: 104.19.46.27
   sni: ip14.freegradely.xyz
-  tls: false
   type: vmess
   uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
-  ws-opts: {}
 - alterId: 0
   cipher: auto
-  name: '1,6|🇺🇸_US_美国 #16'
+  name: 1|_US__16
   network: ws
   port: 2086
   server: 104.19.45.15
   sni: ''
-  tls: false
   type: vmess
   uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
-  ws-opts: {}
 - alterId: 0
   cipher: auto
   name: 2|🇩🇪_DE_德国
@@ -410,84 +372,228 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 11|1|🇺🇸2 |  5.1MB/s
-  network: tcp
-  port: '5229'
-  server: 0ecc8d37-sux8g0-swbudg-1mzwj.cu.plebai.net
-  tls: false
-  type: vmess
-  uuid: a203d80e-10fe-11ef-88a6-f23c9164ca5d
-- alterId: 0
-  cipher: auto
-  name: 11|1|🇺🇸24 |  5.1MB/s
-  network: tcp
-  port: '5228'
-  server: ba91e0a1-sutj40-t1k53r-1jm8i.cu.plebai.net
-  tls: false
-  type: vmess
-  uuid: a6ddfc37-05eb-11ed-af40-f23c91cfbbc9
-- alterId: 0
-  cipher: auto
-  name: 11|1|🇺🇸4 |  3.0MB/s
+  name: '3,17|🇺🇸_US_美国 #7'
   network: ws
-  port: 443
-  server: d3fgkhtpi57foq.cloudfront.net
-  servername: d3fgkhtpi57foq.cloudfront.net
-  tls: true
-  type: vmess
-  uuid: 2d6a51f1-6c41-4443-87fc-a2d32130942b
-  ws-opts:
-    headers:
-      Host: d3fgkhtpi57foq.cloudfront.net
-    path: /c02
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: 11,15,16|新加坡|@ripaojiedian
-  network: ws
-  port: '12901'
-  server: gtm1.ktmwan.net
-  servername: ''
-  skip-cert-verify: false
-  tfo: false
+  port: 2082
+  server: cfcdn1.sanfencdn9.com
   tls: false
   type: vmess
-  uuid: 0320bad3-41dd-4069-a91f-d58c5370df22
-  ws-opts:
-    headers:
-      Host: gtm1.ktmwan.net
-    path: /
+  uuid: cd0eb936-9e1e-4730-989e-be43e7fcaf3e
+  ws-opts: {}
 - alterId: 0
   cipher: auto
-  name: 11|1|🇧🇷1 |  5.5MB/s
+  name: '3,17|🇺🇸_US_美国->🇧🇷_BR_巴西 #2'
   network: ws
-  port: 80
-  server: 172.67.228.218
+  port: 2052
+  server: 104.18.37.248
   tls: false
   type: vmess
-  uuid: bd9c1aea-240a-463a-83ee-e7b3a6a4ac7a
-  ws-opts:
-    headers:
-      Host: 696740264725002025041119231476180.s15.chibaba.filegear-sg.me
-    path: /s15.html
+  uuid: 60bcbd52-0c88-4da3-aee2-cc1f9d5ca224
+  ws-opts: {}
 - alterId: 0
   cipher: auto
-  name: 11|1|🇭🇰1 |  4.1MB/s
+  name: '3,17|🇺🇸_US_美国->🇨🇳_CN_中国 #1'
+  network: ws
+  port: 8080
+  server: 104.19.47.16
+  tls: false
+  type: vmess
+  uuid: b551aa22-22af-11ee-b8d8-f23c932eb68d
+  ws-opts: {}
+- alterId: 0
+  cipher: auto
+  name: '3,17|🇺🇸_US_美国->🇨🇦_CA_加拿大 #4'
+  network: ws
+  port: 2086
+  server: 104.19.47.65
+  tls: false
+  type: vmess
+  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+  ws-opts: {}
+- alterId: 0
+  cipher: auto
+  name: '3,17|🇨🇳_CN_中国->🇺🇸_US_美国 #3'
+  network: ws
+  port: 16928
+  server: 120.232.240.56
+  tls: false
+  type: vmess
+  uuid: 5f6b3c3f-b0a8-33f5-95c6-371f8c6af973
+  ws-opts: {}
+- alterId: 64
+  cipher: auto
+  name: '3,17|🇨🇳_CN_中国->🇺🇸_US_美国 #4'
   network: tcp
-  port: 15229
-  server: 614ea2b0-sux8g0-td95qh-1isea.cm.plebai.net
+  port: 54002
+  server: 183.240.235.162
   tls: false
   type: vmess
-  uuid: d6abdbda-fe9d-11ec-bb74-f23c9164ca5d
+  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
 - alterId: 0
   cipher: auto
-  name: 11|1|🇺🇸11 |  3.3MB/s
+  name: '3,17|🇺🇸_US_美国->🇧🇷_BR_巴西 #3'
+  network: ws
+  port: 2052
+  server: p3.v2raybrasil.cloud
+  tls: false
+  type: vmess
+  uuid: 60bcbd52-0c88-4da3-aee2-cc1f9d5ca224
+  ws-opts: {}
+- alterId: 0
+  cipher: auto
+  name: '3,17|🇺🇸_US_美国 #8'
+  network: ws
+  port: 2086
+  server: 104.19.32.46
+  tls: false
+  type: vmess
+  uuid: 29eebb60-b27b-4a9d-bba5-947763d9205e
+  ws-opts: {}
+- alterId: 64
+  cipher: auto
+  name: '3,17|🇨🇳_CN_中国 #1'
+  network: tcp
+  port: 54882
+  server: 183.240.235.162
+  tls: false
+  type: vmess
+  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+- alterId: 0
+  cipher: auto
+  name: '3,17|🇺🇸_US_美国 #9'
+  network: ws
+  port: 8080
+  server: russia.com
+  tls: false
+  type: vmess
+  uuid: b7c56170-edb4-4c4a-bb64-ed5ef40b8739
+  ws-opts: {}
+- alterId: 0
+  cipher: auto
+  name: '3,17|🇺🇸_US_美国->🇫🇷_FR_法国 #2'
+  network: ws
+  port: 2082
+  server: 172.67.130.140
+  tls: false
+  type: vmess
+  uuid: 112ac36f-3f53-4e26-8371-d25c028e1b9a
+  ws-opts: {}
+- alterId: 0
+  cipher: auto
+  name: '3,17|🇺🇸_US_美国->🇨🇦_CA_加拿大 #7'
+  network: ws
+  port: 2086
+  server: 172.64.175.213
+  tls: false
+  type: vmess
+  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+  ws-opts: {}
+- alterId: 0
+  cipher: auto
+  name: 11|2|🇺🇸18 |  3.3MB/s
   network: tcp
   port: 5228
-  server: 7bd0fd61-suz340-tau0mq-1i41w.cu.plebai.net
+  server: a0bc30e2-sux8g0-sv74ec-1t7c2.cu.plebai.net
   tls: false
   type: vmess
-  uuid: d13637bd-0e24-11ed-9d0b-f23c91cfbbc9
+  uuid: a087871c-d185-11ef-bdb9-f23c91cfbbc9
+- alterId: 0
+  cipher: auto
+  name: 11|2|🌀1- |  5.7MB/s
+  network: tcp
+  port: '180'
+  server: 89.18.58.104
+  tls: false
+  type: vmess
+  uuid: d13fc2f5-3e05-4795-81eb-44143a09e552
+- alterId: 64
+  cipher: auto
+  name: 11,16|日本5|@ripaojiedian
+  network: tcp
+  port: '32980'
+  server: 120.198.71.214
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+- alterId: 0
+  cipher: auto
+  name: 11|2|🇺🇸16 |  2.2MB/s
+  network: tcp
+  port: '5229'
+  server: 2e93912d-sutj40-sutgau-1r62f.cu.plebai.net
+  tls: false
+  type: vmess
+  uuid: 154b0bf8-f9a7-11ee-a218-f23c91cfbbc9
+- alterId: 0
+  cipher: auto
+  name: 11|2|🇺🇸15 |  5.6MB/s
+  network: tcp
+  port: 5229
+  server: 74f77c00-sutj40-t5qufl-8n27.cu.plebai.net
+  tls: false
+  type: vmess
+  uuid: 5dc6fa05-a601-aba6-7761-ecde22d2b0fc
+- alterId: 0
+  cipher: auto
+  name: 11|2|🇺🇸21 |  1.9MB/s
+  network: tcp
+  port: 5228
+  server: 7daa6f3a-sux8g0-tavf3m-18imv.cu.plebai.net
+  tls: false
+  type: vmess
+  uuid: 9a846cd4-7a86-11ed-a8bf-f23c91cfbbc9
+- alterId: 0
+  cipher: auto
+  name: 11|2|🇭🇰6 |  2.2MB/s
+  network: ws
+  port: 443
+  server: 104.17.137.127
+  servername: hk.niskakowski.ggff.net
+  tls: true
+  type: vmess
+  uuid: 47eab0de-97f9-49be-f2f3-2e4eb17268e6
+  ws-opts:
+    headers:
+      Host: hk.niskakowski.ggff.net
+    path: /aa
+- alterId: 0
+  cipher: auto
+  name: 11|2|🇨🇭3 |  5.2MB/s
+  network: tcp
+  port: 22324
+  server: 186.190.215.193
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 04621bae-ab36-11ec-b909-0242ac120002
+- alterId: 0
+  cipher: auto
+  name: 11|2|🇺🇸33 |  2.2MB/s
+  network: tcp
+  port: 5229
+  server: 2c2227e1-sutj40-t907cr-1c1mr.cu.plebai.net
+  tls: false
+  type: vmess
+  uuid: a12640d0-e2ad-11ef-8f5b-f23c913c8d2b
+- alterId: 0
+  cipher: auto
+  name: 11|2|🇺🇸45 |  2.5MB/s
+  network: tcp
+  port: '5228'
+  server: 157.148.96.92
+  tls: false
+  type: vmess
+  uuid: 6ada1622-e018-11ec-bb74-f23c9164ca5d
+- alterId: 0
+  cipher: auto
+  name: 11|2|🇺🇸42 |  2.3MB/s
+  network: tcp
+  port: '5228'
+  server: 76328141-sv2sg0-t98e4q-1m2as.cu.plebai.net
+  tls: false
+  type: vmess
+  uuid: e44b79fa-ec06-11ee-aecd-f23c9164ca5d
 - alterId: 2
   cipher: auto
   client-fingerprint: chrome
@@ -505,297 +611,6 @@ proxies:
     headers:
       Host: broadcastlv.chat.bilibili.com
     path: /
-- alterId: 0
-  cipher: auto
-  name: 11|1|🌀2-CZ |  5.7MB/s
-  network: tcp
-  port: '180'
-  server: 89.18.58.104
-  tls: false
-  type: vmess
-  uuid: d13fc2f5-3e05-4795-81eb-44143a09e552
-- alterId: 0
-  cipher: auto
-  name: 11|1|🇸🇬2 |  4.9MB/s
-  network: tcp
-  port: 17231
-  server: f8553737-suz340-sw30na-2vfx.cm5.p5pv.com
-  tls: false
-  type: vmess
-  uuid: 7d74be30-1102-11ec-a0fc-f23c913c8d2b
-- alterId: 0
-  cipher: auto
-  name: 11,16|新加坡2|@ripaojiedian
-  network: tcp
-  port: '17231'
-  server: 0496335c-sux8g0-swbudg-1mzwj.cm5.p5pv.com
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: a203d80e-10fe-11ef-88a6-f23c9164ca5d
-- alterId: 0
-  cipher: auto
-  name: 11|1|🇺🇸14 |  5.8MB/s
-  network: ws
-  port: 2086
-  server: 170.114.45.51
-  tls: false
-  type: vmess
-  uuid: 87306175-4286-43f2-be9f-49fffc4ee7b3
-  ws-opts:
-    path: /
-- alterId: 0
-  cipher: auto
-  name: 11|1|🇺🇸16 |  5.6MB/s
-  network: tcp
-  port: 22702
-  server: 185.189.32.179
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 483a1cce-af9b-4416-d7c6-10b9b63be66f
-- alterId: 0
-  cipher: auto
-  name: 11|1|🇺🇸66 |  5.6MB/s
-  network: tcp
-  port: 5228
-  server: cd04809b-sux8g0-t3f7qr-141tv.cu.plebai.net
-  tls: false
-  type: vmess
-  uuid: bd77bfe8-e0f3-11ec-bd7c-f23c913c8d2b
-- alterId: 0
-  cipher: auto
-  name: 11|1|🇯🇵1 |  3.9MB/s
-  network: tcp
-  port: 17233
-  server: 76c85625-sutj40-t1k53r-1jm8i.cm5.p5pv.com
-  tls: false
-  type: vmess
-  uuid: a6ddfc37-05eb-11ed-af40-f23c91cfbbc9
-- alterId: 0
-  cipher: auto
-  name: 11|1|🇺🇸21 |  5.3MB/s
-  network: tcp
-  port: '5229'
-  server: 2c2227e1-sutj40-t907cr-1c1mr.cu.plebai.net
-  tls: false
-  type: vmess
-  uuid: a12640d0-e2ad-11ef-8f5b-f23c913c8d2b
-- alterId: 0
-  cipher: auto
-  name: 11|1|🇫🇷3 |  5.8MB/s
-  network: ws
-  port: 2095
-  server: 185.174.138.209
-  tls: false
-  type: vmess
-  uuid: 3f638f34-8dba-4186-bc43-2716a7ddd4be
-  ws-opts:
-    headers:
-      Host: yellow-paper-029c.yvonna.workers.dev
-    path: /az05.beyondy.cfd/link?/TM
-- alterId: 0
-  cipher: auto
-  name: 11|1|🇺🇸25 |  1.8MB/s
-  network: tcp
-  port: 5228
-  server: 2042c623-suz340-sw30na-2vfx.cu.plebai.net
-  tls: false
-  type: vmess
-  uuid: 7d74be30-1102-11ec-a0fc-f23c913c8d2b
-- alterId: 0
-  cipher: auto
-  name: 11|1|🇭🇰5 |  1.7MB/s
-  network: tcp
-  port: 15229
-  server: 81137562-sutj40-suyhjm-1hhyy.cm.plebai.net
-  tls: false
-  type: vmess
-  uuid: c594c7ec-8b10-11ef-a2b8-f23c9164ca5d
-- alterId: 0
-  cipher: auto
-  name: 11|1|🇸🇬4 |  2.9MB/s
-  network: tcp
-  port: 17231
-  server: cd4bd325-suz340-sw0fy8-4c42.cm5.p5pv.com
-  tls: false
-  type: vmess
-  uuid: 1758c288-c39d-3d20-f34f-f4c62bc1d8d4
-- alterId: 0
-  cipher: auto
-  name: 11|1|🇸🇬5 |  5.0MB/s
-  network: tcp
-  port: 17231
-  server: af11f5b7-suz340-sv1gez-1tk5u.cm5.p5pv.com
-  tls: false
-  type: vmess
-  uuid: e3217bc2-061f-11f0-90e2-f23c913c8d2b
-- alterId: 0
-  cipher: auto
-  name: 11|1|🇺🇸71 |  5.2MB/s
-  network: tcp
-  port: '5228'
-  server: a0bc30e2-sux8g0-sv74ec-1t7c2.cu.plebai.net
-  tls: false
-  type: vmess
-  uuid: a087871c-d185-11ef-bdb9-f23c91cfbbc9
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: 11,15,16|美国|@ripaojiedian
-  network: ws
-  port: '7615'
-  server: d2076047-suz340-tau0mq-1i41w.lza.plebai.net
-  servername: ''
-  skip-cert-verify: false
-  tfo: false
-  tls: false
-  type: vmess
-  uuid: d13637bd-0e24-11ed-9d0b-f23c91cfbbc9
-  ws-opts:
-    headers:
-      Host: broadcastlv.chat.bilibili.com
-    path: /
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: 11,15,16|澳大利亚|@ripaojiedian
-  network: ws
-  port: '8080'
-  server: dingzhiyx1.sgjc.xyz
-  servername: ''
-  skip-cert-verify: false
-  tfo: false
-  tls: false
-  type: vmess
-  uuid: 2e235b81-70ad-45c0-959c-7591fa078836
-  ws-opts:
-    headers:
-      Host: dingzhiadly.sgjc.xyz
-    path: /?ed=2048
-- alterId: 0
-  cipher: auto
-  name: 11|1|🌀13-ID |  1.1MB/s
-  network: tcp
-  port: 17234
-  server: a7262f64-sux8g0-sxxt3o-15z76.cm5.p5pv.com
-  tls: false
-  type: vmess
-  uuid: 54cef7fa-90ad-11eb-a8bf-f23c91cfbbc9
-- alterId: 0
-  cipher: auto
-  name: 11|1|🇺🇸60 |  4.2MB/s
-  network: tcp
-  port: 5228
-  server: 76328141-sv2sg0-t98e4q-1m2as.cu.plebai.net
-  tls: false
-  type: vmess
-  uuid: e44b79fa-ec06-11ee-aecd-f23c9164ca5d
-- alterId: 0
-  cipher: auto
-  name: 11|1|🇰🇷3 |  2.1MB/s
-  network: tcp
-  port: 17232
-  server: 2b6fa9f9-sum4g0-sv6oiy-1p1b.cm5.p5pv.com
-  tls: false
-  type: vmess
-  uuid: 279b8588-616b-11ed-a8bf-f23c91cfbbc9
-- alterId: 0
-  cipher: auto
-  name: 11|1|🇺🇸43 |  5.0MB/s
-  network: tcp
-  port: 5228
-  server: 3b6ec92e-sux8g0-swffb5-1s6xm.cu.plebai.net
-  tls: false
-  type: vmess
-  uuid: 2b634c80-fd7e-11ef-9f25-f23c9164ca5d
-- alterId: 64
-  cipher: auto
-  name: 11|1|🇺🇸44 |  6.2MB/s
-  network: tcp
-  port: 44015
-  server: 120.198.71.219
-  tls: false
-  type: vmess
-  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
-- alterId: 0
-  cipher: auto
-  name: 11|1|🇺🇸46 |  3.7MB/s
-  network: tcp
-  port: 5229
-  server: f5f98477-sutj40-tdcdb7-1k27l.cu.plebai.net
-  tls: false
-  type: vmess
-  uuid: ba4b1f2e-c985-11ed-9c0c-f23c913c8d2b
-- alterId: 0
-  cipher: auto
-  name: 11|1|🇺🇸47 |  4.8MB/s
-  network: tcp
-  port: 5228
-  server: 157.148.96.92
-  tls: false
-  type: vmess
-  uuid: 6ada1622-e018-11ec-bb74-f23c9164ca5d
-- alterId: 0
-  cipher: auto
-  name: 11|1|🇯🇵6 |  5.3MB/s
-  network: tcp
-  port: 17233
-  server: 5ed696c1-sutj40-t907cr-1c1mr.cm5.p5pv.com
-  tls: false
-  type: vmess
-  uuid: a12640d0-e2ad-11ef-8f5b-f23c913c8d2b
-- alterId: 0
-  cipher: auto
-  name: 11|1|🇺🇸51 |  5.6MB/s
-  network: tcp
-  port: 5228
-  server: fea38a5e-sum4g0-sv6oiy-1p1b.cu.plebai.net
-  tls: false
-  type: vmess
-  uuid: 279b8588-616b-11ed-a8bf-f23c91cfbbc9
-- alterId: 0
-  cipher: auto
-  name: 11|1|🇸🇬6 |  5.7MB/s
-  network: ws
-  port: 443
-  server: 104.21.42.243
-  servername: ''
-  tls: true
-  type: vmess
-  uuid: d13fc2f5-3e05-4795-81eb-44143a09e552
-  ws-opts:
-    headers:
-      Host: sgfqkqmltcy.site
-    path: /rbqqvws
-- alterId: 0
-  cipher: auto
-  name: 11|1|🇺🇸54 |  3.8MB/s
-  network: tcp
-  port: 5229
-  server: 74f77c00-sutj40-t5qufl-8n27.cu.plebai.net
-  tls: false
-  type: vmess
-  uuid: 5dc6fa05-a601-aba6-7761-ecde22d2b0fc
-- alterId: 0
-  cipher: auto
-  name: 11|1|🇺🇸55 |  4.3MB/s
-  network: tcp
-  port: 5229
-  server: 8f34e685-suz340-svvaj9-fa3p.cu.plebai.net
-  tls: false
-  type: vmess
-  uuid: 905fcd78-866c-81e1-3cb8-1beb59d661ab
-- alterId: 0
-  cipher: auto
-  name: 11,16|日本4|@ripaojiedian
-  network: tcp
-  port: '17233'
-  server: 81f6bf37-sutj40-svgpxu-y2gs.cm5.p5pv.com
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: b806b388-5f97-11ee-8014-f23c913c8d2b
 - alterId: 0
   cipher: auto
   name: 11,16|香港5|@ripaojiedian
@@ -869,16 +684,77 @@ proxies:
     headers:
       Host: www.bing.com
     path: /nmkj
-- alterId: 64
+- alterId: 0
   cipher: auto
-  name: 11,16|日本5|@ripaojiedian
+  name: 11,16|日本4|@ripaojiedian
   network: tcp
-  port: '32980'
-  server: 120.198.71.214
+  port: '17233'
+  server: 81f6bf37-sutj40-svgpxu-y2gs.cm5.p5pv.com
   servername: ''
   tls: false
   type: vmess
-  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+  uuid: b806b388-5f97-11ee-8014-f23c913c8d2b
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 11,15,16|新加坡|@ripaojiedian
+  network: ws
+  port: '12901'
+  server: gtm1.ktmwan.net
+  servername: ''
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vmess
+  uuid: 0320bad3-41dd-4069-a91f-d58c5370df22
+  ws-opts:
+    headers:
+      Host: gtm1.ktmwan.net
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 11,16|新加坡2|@ripaojiedian
+  network: tcp
+  port: '17231'
+  server: 0496335c-sux8g0-swbudg-1mzwj.cm5.p5pv.com
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: a203d80e-10fe-11ef-88a6-f23c9164ca5d
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 11,15,16|美国|@ripaojiedian
+  network: ws
+  port: '7615'
+  server: d2076047-suz340-tau0mq-1i41w.lza.plebai.net
+  servername: ''
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vmess
+  uuid: d13637bd-0e24-11ed-9d0b-f23c91cfbbc9
+  ws-opts:
+    headers:
+      Host: broadcastlv.chat.bilibili.com
+    path: /
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 11,15,16|澳大利亚|@ripaojiedian
+  network: ws
+  port: '8080'
+  server: dingzhiyx1.sgjc.xyz
+  servername: ''
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vmess
+  uuid: 2e235b81-70ad-45c0-959c-7591fa078836
+  ws-opts:
+    headers:
+      Host: dingzhiadly.sgjc.xyz
+    path: /?ed=2048
 - alterId: 0
   cipher: auto
   name: 11,16|台湾2|@ripaojiedian
@@ -1110,121 +986,3 @@ proxies:
   server: 3.35.132.172
   tfo: false
   type: ss
-- alterId: 0
-  cipher: auto
-  name: '17|🇺🇸_US_美国 #17'
-  network: ws
-  port: 2082
-  server: cfcdn1.sanfencdn9.com
-  tls: false
-  type: vmess
-  uuid: cd0eb936-9e1e-4730-989e-be43e7fcaf3e
-  ws-opts: {}
-- alterId: 0
-  cipher: auto
-  name: 17|🇺🇸_US_美国->🇧🇷_BR_巴西
-  network: ws
-  port: 2052
-  server: 104.18.37.248
-  tls: false
-  type: vmess
-  uuid: 60bcbd52-0c88-4da3-aee2-cc1f9d5ca224
-  ws-opts: {}
-- alterId: 0
-  cipher: auto
-  name: '17|🇺🇸_US_美国->🇨🇳_CN_中国 #2'
-  network: ws
-  port: 8080
-  server: 104.19.47.16
-  tls: false
-  type: vmess
-  uuid: b551aa22-22af-11ee-b8d8-f23c932eb68d
-  ws-opts: {}
-- alterId: 0
-  cipher: auto
-  name: '17|🇺🇸_US_美国->🇨🇦_CA_加拿大 #4'
-  network: ws
-  port: 2086
-  server: 104.19.47.65
-  tls: false
-  type: vmess
-  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
-  ws-opts: {}
-- alterId: 0
-  cipher: auto
-  name: '17|🇨🇳_CN_中国->🇺🇸_US_美国 #1'
-  network: ws
-  port: 16928
-  server: 120.232.240.56
-  tls: false
-  type: vmess
-  uuid: 5f6b3c3f-b0a8-33f5-95c6-371f8c6af973
-  ws-opts: {}
-- alterId: 64
-  cipher: auto
-  name: '17|🇨🇳_CN_中国->🇺🇸_US_美国 #2'
-  network: tcp
-  port: 54002
-  server: 183.240.235.162
-  tls: false
-  type: vmess
-  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
-- alterId: 0
-  cipher: auto
-  name: '17|🇺🇸_US_美国->🇧🇷_BR_巴西 #1'
-  network: ws
-  port: 2052
-  server: p3.v2raybrasil.cloud
-  tls: false
-  type: vmess
-  uuid: 60bcbd52-0c88-4da3-aee2-cc1f9d5ca224
-  ws-opts: {}
-- alterId: 0
-  cipher: auto
-  name: '17|🇺🇸_US_美国 #18'
-  network: ws
-  port: 2086
-  server: 104.19.32.46
-  tls: false
-  type: vmess
-  uuid: 29eebb60-b27b-4a9d-bba5-947763d9205e
-  ws-opts: {}
-- alterId: 64
-  cipher: auto
-  name: 17|🇨🇳_CN_中国
-  network: tcp
-  port: 54882
-  server: 183.240.235.162
-  tls: false
-  type: vmess
-  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
-- alterId: 0
-  cipher: auto
-  name: '17|🇺🇸_US_美国 #19'
-  network: ws
-  port: 8080
-  server: russia.com
-  tls: false
-  type: vmess
-  uuid: b7c56170-edb4-4c4a-bb64-ed5ef40b8739
-  ws-opts: {}
-- alterId: 0
-  cipher: auto
-  name: '17|🇺🇸_US_美国->🇫🇷_FR_法国 #1'
-  network: ws
-  port: 2082
-  server: 172.67.130.140
-  tls: false
-  type: vmess
-  uuid: 112ac36f-3f53-4e26-8371-d25c028e1b9a
-  ws-opts: {}
-- alterId: 0
-  cipher: auto
-  name: '17|🇺🇸_US_美国->🇨🇦_CA_加拿大 #7'
-  network: ws
-  port: 2086
-  server: 172.64.175.213
-  tls: false
-  type: vmess
-  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
-  ws-opts: {}
